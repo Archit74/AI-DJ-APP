@@ -1,0 +1,39 @@
+.header
+{
+    width: 100%;
+    border-radius: 10px;
+    font-size: 18px;
+   top: 0;
+   margin: 0;
+}
+.speed_disk_img
+{
+    width: 200px;
+    height: 200px;
+    
+}
+.divSpeed
+{
+    float: left;
+}
+.volume_disk_img
+{
+    width: 200px;
+    height: 200px;
+    
+}
+.diVolume
+{
+    float: right;
+}
+.button_play
+{
+    font-size: 25px;
+    width: 100px;
+}
+canvas
+{
+border: 3px soild lightskyblue;
+border-radius: 15px;
+margin-top: 130px;
+}
